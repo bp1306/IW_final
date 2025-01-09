@@ -1,0 +1,6 @@
+numpy
+tflite-runtime
+cv2
+pillow
+gpiozero
+jep
