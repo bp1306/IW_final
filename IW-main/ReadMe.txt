@@ -12,4 +12,3 @@ Execution
 java -cp /home/PATH_TO_JEP/jep-4.2.1.jar/’*’:. Class [args]
 
 Unzip the converted quantized model or use your own .tflite model/labels.txt.
-Assumes .tflite and labels.
