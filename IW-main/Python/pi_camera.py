@@ -1,3 +1,4 @@
+# based on Ragavas's tutorial https://medium.com/@jragas/i-am-using-googles-teachable-machine-on-a-raspberry-pi-zero-w-8f367df38647
 from picamera2 import Picamera2, Preview
 import time
 
