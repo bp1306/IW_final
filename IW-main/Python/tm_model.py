@@ -1,3 +1,4 @@
+# based on Ragavas's tutorial https://medium.com/@jragas/i-am-using-googles-teachable-machine-on-a-raspberry-pi-zero-w-8f367df38647
 from tflite_runtime.interpreter import Interpreter 
 import numpy as np
 import os
